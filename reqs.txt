@@ -1,0 +1,5 @@
+greenlet==2.0.1
+PyMySQL==1.0.2
+python-decouple==3.6
+SQLAlchemy==1.4.45
+SQLAlchemy-Utils==0.38.3
